@@ -1,0 +1,21 @@
+* {
+font-family: 'Roboto Slab', serif;
+}
+
+p {
+font-size: 18px;
+}
+
+h1 {
+font-weight: bold;
+font-family: 'Roboto Slab', serif;
+}
+
+#text {
+background-color: whitesmoke;
+}
+
+a {
+color: #002a54;
+font-weight: bold;
+}
